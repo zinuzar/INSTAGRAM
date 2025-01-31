@@ -536,7 +536,7 @@ a:focus {
 }
 
 .about_section {
-  background-image: url("images/about-bg.png");
+  background-image: url("../images/about-bg.png");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
